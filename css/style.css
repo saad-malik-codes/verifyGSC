@@ -1,0 +1,16 @@
+/*container for each input box*/
+.verifyGSC .field{
+ padding: 10px;
+ width: 100%;
+}
+
+/*label for input box*/
+.verifyGSC .field label{
+ font-weight: bold;
+}
+
+/*input box*/
+.verifyGSC .field input{
+ width: 80%;
+ line-height: 15px;
+}
