@@ -3,8 +3,8 @@
 Plugin Name: WP Verify Google Search Console
 Description: Simple, lightweight, SEO-friendly plugin for your domain's Google Search Console verification!
 Version: 1.0
-Author: SaadMM
-Author URI: http://www.google.com
+Author: Saad Malik
+Author URI: https://saad.codes/
 */
 
 class verifyGSC {
